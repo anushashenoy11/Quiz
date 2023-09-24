@@ -1,0 +1,52 @@
+body{
+    background-image: url(bh.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.app{
+    background-color:darkgray;
+    width: 90%;
+    max-width: 500px;
+    margin: 100px auto 0;
+    border-radius: 10px;
+    padding:30px;
+}
+.app h1{
+    color: rgb(2, 2, 2);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bt{
+    background-color: #fff;
+    color:black;
+    font-weight: 500;
+    width: 100%;
+    padding: 20px;
+    margin: 10px 0;    
+    border-radius: 20px;
+    font-size: 16px;
+    cursor:pointer;
+}
+
+#bt1{
+  
+    background: cornflowerblue;
+    color: black;
+    font-weight: 200;
+    width: 100;
+    border:0;
+    margin: 20px;
+    padding:10px;
+    border-radius: 4px;
+    cursor:pointer;
+    
+    display:none;
+    
+}
+.correct{
+    background: rgb(165, 246, 165);
+}
+.incorrect{
+    background: rgb(251, 91, 91);
+}

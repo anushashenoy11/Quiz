@@ -1,0 +1,40 @@
+body{
+    background-image: url(black_hole.gif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    align-items: center;
+  
+}
+h1{
+   color: rgb(255, 255, 255);
+   
+}
+#start{
+    background: rgb(255, 255, 255);
+    color: black;
+    font-weight: 200;
+    width: 125;
+    height: 50;
+    border:0;
+    margin: 20px;
+    padding:10px;
+    border-radius: 4px;
+    cursor:pointer;
+    font-size: 15px;
+   
+}
+strong{
+    color:white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: white;
+    font-size: 25px;
+    text-align: justify;
+}
+#know{
+    text-align: center;
+}
